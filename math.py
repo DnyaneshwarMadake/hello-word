@@ -10,7 +10,7 @@ def mul(x,y):
 #div implemnetation  
 def div(x,y):
     if y==0:
-        return dived by 0
+        return dived by 1
     else:
         return x/y
         
